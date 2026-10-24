@@ -1,27 +1,37 @@
-# Ladies Fitness Club Website
+# Ladies Fitness Club Website 🌸
 
-A responsive website created for Ladies Fitness Club, a women's fitness centre in Attock, Pakistan.
+A responsive website built for Ladies Fitness Club, a women's fitness centre based in Attock, Pakistan.
 
-## Live Demo
-https://ladiesfitnessclub-attock.netlify.app/
+## 🌐 Live Demo
 
-## Overview
-This project provides a clean, welcoming online presence for a local fitness business, with information about its services, facilities and contact options.
+[Visit the live website](https://ladiesfitnessclub-attock.netlify.app/)
 
-## Features
+## ✨ Features
+
+- Clean, modern blush-pink design
 - Responsive layout for desktop and mobile
-- Fitness services and facilities sections
-- Business information and contact details
-- WhatsApp enquiry link
+- Fitness services and facilities information
+- Business details and owner introduction
+- WhatsApp integration for customer enquiries
 
-## Built With
+## 🛠️ Technologies
+
 - HTML
 - CSS
-- JavaScript (include only if used)
 
-## Run Locally
+## 📌 About the Project
+
+This project was created to give a local fitness business a welcoming online presence and make information about its services and contact options easier to access.
+
+Building this website helped me gain practical experience in web development, website design, and deployment.
+
+## 🚀 Run Locally
+
 1. Download or clone this repository.
-2. Open `index.html` in a web browser.
+2. Open `index.html` in your web browser.
 
-## Purpose
-Built as a practical web development project for a real-world business.
+## 👩‍💻 Developer
+
+**DuaDevv**
+
+[GitHub Profile](https://github.com/DuaDevv)
