@@ -5,8 +5,7 @@ A responsive website built for Ladies Fitness Club, a women's fitness centre bas
 ## 🌐 Live Demo
 
 [Visit the live website](https://ladiesfitnessclub-attock.netlify.app/)
-![Ladies Fitness Club website preview](capture.png)
-
+![Ladies Fitness Club website preview](website-preview.png)
 ## ✨ Features
 
 - Clean, modern blush-pink design
